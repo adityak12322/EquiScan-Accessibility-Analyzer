@@ -1,0 +1,16 @@
+# Dependency folders
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment Variables (CRITICAL for security)
+.env
+server/.env
+
+# Build outputs
+dist/
+build/
+
+# IDE/System Files
+.vscode/
+.DS_Store
